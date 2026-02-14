@@ -3,8 +3,6 @@
 This project performs **customer segmentation** using unsupervised machine learning techniques on the *Customer Personality Analysis* dataset.  
 The goal is to identify meaningful customer groups based on demographic and purchasing behavior to support data-driven marketing strategies.
 
-🚀 **Live Demo (HuggingFace Spaces):**  
-https://huggingface.co/spaces/leyuzak/Customer-Personality-Analysis-Clustering
 
 📓 **Kaggle Notebook:**  
 https://www.kaggle.com/code/leyuzakoksoken/customer-personality-analysis-clustering
